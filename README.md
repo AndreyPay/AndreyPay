@@ -14,7 +14,7 @@
 ### 💬 About me
 
 - 🌱 Currently studying **Python, C#, HTML, CSS, JS**
-- 👨‍🎓 Currently studying at the institute
+- 👨‍🎓 Currently studying at the University
 - 📄 Learn about my experience by looking at projects
 - 📫 Contact me on [Vk](https://vk.com/andreypaydak), [Telegram](https://t.me/andreipaydak), [Email](mailto:andrey.paydak@mail.ru)
 - 🌍 I speak Russian and English
